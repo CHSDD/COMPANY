@@ -1,0 +1,4 @@
+header {height: 81px;text-align: center;}
+header h1 {position: absolute; left:50px; top: 0; padding: 14px 0 0;}
+header .navigation li {display: inline-block;}
+header .navigation a { display: block; height: 81px; padding: 0 35px;}
